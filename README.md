@@ -3,7 +3,7 @@
 
 Repositorio asociado al Trabajo Fin de Máster:
 
-"Marco de Evaluación de Riesgos para Sistemas de Inteligencia Artificial en Contextos de Ciberseguridad"
+"Marco de Evaluación de Riesgos para Sistemas de Inteligencia Artificial Aplicados a Ciberseguridad"
  
 ## Contenido
 - proyectov2.py : código fuente del prototipo desarrollado en Python y Streamlit.
